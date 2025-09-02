@@ -13,7 +13,7 @@ Develop a tutoring platform that provides on-demand, affordable, and personalize
 
 Students can easily find help across a wide range of subjects—from math and science to music and coding. They can access curated courses and materials, find study buddies with similar interests, and improve together through our unique gamified system. Mentors are empowered to host lessons, upload resources, and guide students directly on our platform. At the heart of it all, our **study rooms** provide a focused, collaborative space for real-time study sessions.
 
-## Key Features
+## Proposed Features
 
   * **Dual User Roles:** Seamless registration and user flow for both students and mentors.
   * **Comprehensive Tutoring:** Connect with mentors for academic help in any subject, including languages, mathematics, science, music, and coding.
