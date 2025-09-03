@@ -18,13 +18,13 @@ Students can easily find help across a wide range of subjects—from math and sc
 
 ## Proposed Features
 
-  * **Dual User Roles:** Seamless registration and user flow for both students and mentors.
-  * **Comprehensive Tutoring:** Connect with mentors for academic help in any subject, including languages, mathematics, science, music, and coding.
-  * **Real-time Study Rooms:** Generate private or public online study rooms with customizable backgrounds and music to create a focused atmosphere.
-  * **Built-in Pomodoro Timer:** A tool to help students and mentors stay focused and manage their study sessions effectively.
-  * **Gamified Learning:** Track your progress with daily learning streaks and compete with friends on study leaderboards to boost motivation.
-  * **Community and Networking:** Connect with friends and peers who share your interests, and share resources to help each other succeed.
-  * **Mentor-Led Lessons:** Mentors can upload learning materials, host live lessons, and provide personalized assistance to students.
+- Dual User Roles: Seamless registration and user flow for both students and mentors.
+- Comprehensive Tutoring: Connect with mentors for academic help in any subject, including languages, mathematics, science, music, and coding.
+- Real-time Study Rooms: Generate private or public online study rooms with customizable backgrounds and music to create a focused atmosphere. Mentors (human or AI) can be invited to help with study sessions.
+- Built-in Pomodoro Timer: A tool to help students and mentors stay focused and manage their study sessions effectively.
+- Gamified Learning: Earn points by completing quizzes, posting resources, or simply by studying for a minimum of 5 minutes. Track your progress with daily check-ins and compete with friends on the leaderboard to boost motivation.
+- Community and Networking: Connect with friends and peers who share your interests, and share resources to help each other succeed.
+- Mentor-Led Lessons: Mentors can upload learning materials, host live lessons, and provide personalized assistance to students.
 
 -----
 
