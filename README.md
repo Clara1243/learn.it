@@ -24,8 +24,6 @@ Develop a tutoring platform that provides on-demand, affordable, and personalize
 6. **AI Mentor Matching:** Our AI algorithm analyzes a student's profile and learning needs to suggest the most suitable mentor for them, ensuring they get the best help possible.
 7. **Gamification:** Stay motivated by competing with friends on a leaderboard and collecting "credits" by completing daily missions like studying for a certain amount of time or helping others.
 
-
-
 -----
 
 ## Tech Stack
@@ -34,6 +32,17 @@ Develop a tutoring platform that provides on-demand, affordable, and personalize
   * **Backend:** **Firebase** for real-time database, authentication, and hosting.
   * **Real-time Communication:** **WebRTC** for live video and audio tutoring sessions.
   * **Machine Learning** (for User Suggestions): **Gemini AI API** (for AI mentor), Custom Collaborative Filtering (for mentor matching)
+
+-----
+
+## Figma Prototype
+
+See the live user experience and design mockups for learn.it.
+
+[https://www.figma.com/proto/FFRMlHdCcHpkjLS5mIwm6i/Prototype?node-id=31-2133&t=ChSKX8eHfWobNnbv-1
+](https://www.figma.com/proto/FFRMlHdCcHpkjLS5mIwm6i/Prototype?node-id=0-1&p=f&t=QiSDIxT0Cvox4hNc-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=60%3A2318&show-proto-sidebar=1)
+
+
 
 -----
 
@@ -63,14 +72,6 @@ Start the development server:
 npm start
 
 ```
------
-
-## Figma Prototype
-
-See the live user experience and design mockups for learn.it.
-
-https://www.figma.com/proto/FFRMlHdCcHpkjLS5mIwm6i/Prototype?node-id=31-2133&t=ChSKX8eHfWobNnbv-1
-
 -----
 
 
