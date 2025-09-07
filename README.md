@@ -17,7 +17,7 @@ Develop a tutoring platform that provides on-demand, affordable, and personalize
 ## Proposed Features
 
 1. **Resources Hub:** A centralized space for users to upload and share learning materials, tutorials, and study guides with the community.
-2. **Online Study Rooms:** A distraction-free environment to help you focus. Study rooms include:
+2. **Online Study Rooms:** A distraction-free environment to help you focus. 
 3. **Pomodoro Timer:** A built-in timer to manage focused study sessions and breaks.
 4. **Mentor Integration:** Students can invite human mentors or an AI mentor directly into the room for real-time assistance.
 5. **Online Mentor Sessions:** Mentors can create and host dedicated online meetings for one-on-one or group sessions, providing a professional space for personalized teaching.
